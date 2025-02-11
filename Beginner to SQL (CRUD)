@@ -1,0 +1,4 @@
+SQL is a platform for relational structured databases or data that can be organized in tables. It is a domain specific language and was introduced in the 1970s. It consists of Data query Language (DQL), Data Definition Language (DDL), Data Control Language (DCL), and Data Manipulation Language (DML).
+SQL works on the principle of CRUD (Create, Read, Update and Delete) 
+SQL is one of the first languages that employs the relational model
+SQL was initially developed by IBM and it is now been bought over by Oracle Corporation
