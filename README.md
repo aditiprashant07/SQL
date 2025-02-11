@@ -1,2 +1,2 @@
 # SQL
-An introduction and brief explanation to SQL
+Learn eveything about SQL
