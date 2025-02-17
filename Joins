@@ -1,0 +1,8 @@
+These are the types of joins available:
+1. Self Join
+2. Full Join
+3. Right Join
+4. Left Join
+5. Cross Join
+7. Inner Join
+8. Outer Join
